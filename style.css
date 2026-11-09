@@ -1,0 +1,164 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    font-family: "ABC Ginto Normal Unlicensed";
+}
+
+head {
+
+
+}
+
+h1
+.descricao {
+    position: relative;
+}
+
+.bt-cadastro {
+    text-align: center;
+}
+
+header {
+    background-color: #e223;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.esb-header {
+    color: blue;
+    font-size: 20px;
+    padding-top: 0.8em;
+    padding-left: 1em;
+}
+
+.infos-header {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    padding-top: 0.8em;
+    padding-right: 1em;
+}
+
+.apresentacao-bold {
+    font-size: 4.0em;
+    line-height: 1em;
+
+    padding-top: 0.4em;
+    padding-left: 0.4em;
+}
+
+.apresentacao-normal {
+    font-size: 1.75em;
+    padding-top: -0.4em;
+    padding-left: 1em;
+    padding-bottom: 0.4em;
+}
+
+.apresentacao-imagem {
+    position: absolute;
+    right: 3%;
+    top: 15%;
+}
+
+.apresentacao-imagem img {
+    width: 30em;
+    border-radius: 3cap;
+}
+
+.lista-materias {
+    font-size: 1.3em;
+    padding: 0;
+}
+
+.lista-materias li {
+    padding: 12px 16px;
+    margin: 8px 0;
+    border-left: 4px solid #e234;
+    background: #212529;
+}
+
+.materia-card {
+    padding: 2em;
+    background-color: #121212;
+    border-radius: 5cap;
+    justify-content: space-between;
+    margin: 2em;
+}
+
+.titulo-materia {
+    font-size: 3.5em;
+}
+
+.desc-materia {
+    font-size: 1.2em;
+}
+
+.bt-header {
+    margin-bottom: 1em;
+}
+
+.titulo-form {
+    font-size: 3em;
+    text-align: center;
+}
+
+.desc-form {
+    font-size: 2em;
+    text-align: center;
+}
+
+.texto-objetivo {
+    font-size: 2em;
+}
+
+.form-cadastro {
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.voltar-aulas {
+    margin: 0.8em;
+    font-size: 1.3em;
+}
+
+.tit-video-assunto {
+    text-align: center;
+}
+
+.titulo-assunto {
+    font-size: 3em;
+}
+
+.desc-assunto {
+    font-size: 1.5em;
+}
+
+.titulo-projeto {
+    text-align: center;
+    padding-top: 0.5em;
+    font-size: 3em;
+}
+
+.desc-projeto {
+    text-align: justify;
+    padding: 1em;
+    font-size: 1.3em;
+}
+
+.titulo-integrantes {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.integrantes-grupo {
+    text-align: center;
+    padding: -0.4em;
+    font-size: 1.5em;
+}
+
+.integrantes-grupo-linha {
+    font-size: 1.8em;
+    padding: 1em;
+}
